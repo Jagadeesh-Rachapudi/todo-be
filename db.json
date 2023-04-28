@@ -1,0 +1,195 @@
+{
+  "tasks": [
+    {
+      "taskTitle": "Finish project",
+      "dueDate": "28/04/2023",
+      "dueTime": "12:13",
+      "description": "Complete coding and testing",
+      "important": true,
+      "id": 3
+    },
+    {
+      "taskTitle": "Study for exam now",
+      "dueDate": "10/05/2023",
+      "dueTime": "18:00",
+      "description": "Review lecture notes and textbook",
+      "important": true,
+      "listID": 4,
+      "id": 4
+    },
+    {
+      "taskTitle": "Go for a run",
+      "dueDate": "15/05/2023",
+      "dueTime": "08:00",
+      "description": "5 miles at moderate pace",
+      "important": false,
+      "completed": true,
+      "listID": 6,
+      "id": 5
+    },
+    {
+      "taskTitle": "Visit dentis",
+      "dueDate": "20/05/2023",
+      "dueTime": "12:00",
+      "description": "Checkup and cleaning",
+      "important": true,
+      "id": 6,
+      "listID": 7
+    },
+    {
+      "taskTitle": "Call mom",
+      "dueDate": "25/05/2023",
+      "dueTime": "20:00",
+      "description": "Catch up on family news",
+      "important": false,
+      "completed": true,
+      "id": 7,
+      "listID": 5
+    },
+    {
+      "taskTitle": "Send thank you note",
+      "dueDate": "27/05/2023",
+      "dueTime": "15:00",
+      "description": "Express appreciation for gift",
+      "important": false,
+      "completed": true,
+      "listID": 3,
+      "id": 8
+    },
+    {
+      "taskTitle": "Read book",
+      "dueDate": "01/06/2023",
+      "dueTime": "20:00",
+      "description": "Crime and Punishment by Fyodor Dostoevsky",
+      "important": false,
+      "completed": true,
+      "listID": 3,
+      "id": 10
+    },
+    {
+      "taskTitle": "Check-up",
+      "dueDate": "29/04/2055",
+      "dueTime": "09:00",
+      "description": "Go for reggular checkup",
+      "important": true,
+      "listID": 7
+    },
+    {
+      "taskTitle": "call brother",
+      "dueDate": "19/04/2023",
+      "dueTime": "12:45",
+      "description": "ask him somthing",
+      "important": false,
+      "completed": true,
+      "id": 12,
+      "listID": 5
+    },
+    {
+      "taskTitle": "hello0000000",
+      "dueDate": "19/04/2023",
+      "dueTime": "00:45",
+      "description": "",
+      "important": false,
+      "listID": 7,
+      "id": 13
+    },
+    {
+      "taskTitle": "start homework",
+      "dueDate": "20/04/2023",
+      "dueTime": "00:45",
+      "description": "",
+      "completed": false,
+      "important": false,
+      "listID": 4,
+      "id": 14
+    }
+  ],
+  "listNames": [
+    {
+      "id": 1,
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Work",
+      "path": "/work",
+      "id": 2
+    },
+    {
+      "label": "Personal work",
+      "path": "/personal",
+      "id": 3
+    },
+    {
+      "label": "Learning",
+      "path": "/learning",
+      "id": 4
+    },
+    {
+      "label": "Family",
+      "path": "/family",
+      "id": 5
+    },
+    {
+      "label": "Exercise",
+      "path": "/exercise",
+      "id": 6
+    },
+    {
+      "label": "Health",
+      "path": "/health",
+      "id": 7
+    },
+    {
+      "label": "All Tasks",
+      "path": "/all",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "Jagadeesh@gmail.com",
+      "name": "Jagadeesh",
+      "pswd": "hello"
+    },
+    {
+      "email": "hello!gmail.com",
+      "name": "max",
+      "pswd": "vax",
+      "id": 2
+    },
+    {
+      "email": "hello!gmail.com",
+      "name": "max",
+      "pswd": "vax",
+      "id": 3
+    },
+    {
+      "email": "hello!gmail.com",
+      "name": "max",
+      "id": 4
+    },
+    {
+      "email": "hello!gmail.com",
+      "name": "max",
+      "id": 5
+    },
+    {
+      "email": "hello!gmail.com",
+      "name": "max",
+      "id": 6
+    },
+    {
+      "email": "hello!gmail.com",
+      "name": "max",
+      "id": 7
+    },
+    {
+      "email": "s@gmail.com",
+      "name": "sundar",
+      "pswd": "11222",
+      "id": 8
+    }
+  ]
+}
