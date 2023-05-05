@@ -291,7 +291,6 @@
       "id": 29,
       "listID": 5
     },
-
     {
       "taskTitle": "Buy groceries",
       "dueDate": "08/06/2023",
@@ -391,6 +390,96 @@
       "completed": false,
       "id": 39,
       "listID": 3
+    },
+    {
+      "taskTitle": "Go for a run",
+      "dueDate": "06/05/2023",
+      "dueTime": "08:00",
+      "description": "Jog for 30 minutes in the park",
+      "important": false,
+      "completed": false,
+      "id": 30,
+      "listID": 7
+    },
+    {
+      "taskTitle": "Make a healthy smoothie",
+      "dueDate": "07/05/2023",
+      "dueTime": "10:30",
+      "description": "Blend together spinach, banana, and almond milk",
+      "important": true,
+      "completed": false,
+      "id": 31,
+      "listID": 7
+    },
+    {
+      "taskTitle": "Do some yoga",
+      "dueDate": "08/05/2023",
+      "dueTime": "09:00",
+      "description": "Follow a 20-minute yoga video on YouTube",
+      "important": false,
+      "completed": false,
+      "id": 32,
+      "listID": 7
+    },
+    {
+      "taskTitle": "Prepare a healthy meal",
+      "dueDate": "09/05/2023",
+      "dueTime": "19:00",
+      "description": "Cook grilled chicken with roasted vegetables",
+      "important": true,
+      "completed": false,
+      "id": 33,
+      "listID": 7
+    },
+    {
+      "taskTitle": "Read a book",
+      "dueDate": "10/05/2023",
+      "dueTime": "20:30",
+      "description": "Spend 30 minutes reading a novel",
+      "important": false,
+      "completed": false,
+      "id": 34,
+      "listID": 7
+    },
+    {
+      "taskTitle": "Go to the gym",
+      "dueDate": "11/05/2023",
+      "dueTime": "07:00",
+      "description": "Do a full-body workout for an hour",
+      "important": true,
+      "completed": false,
+      "id": 35,
+      "listID": 6
+    },
+    {
+      "taskTitle": "Take a fitness class",
+      "dueDate": "12/05/2023",
+      "dueTime": "18:00",
+      "description": "Attend a spinning class at the local gym",
+      "important": false,
+      "completed": false,
+      "id": 36,
+      "listID": 6
+    },
+    {
+      "taskTitle": "Go for a bike ride",
+      "dueDate": "13/05/2023",
+      "dueTime": "16:00",
+      "description": "Cycle for an hour in the park",
+      "important": false,
+      "completed": false,
+      "id": 37,
+      "listID": 6
+    },
+    {
+      "taskTitle": "Try a new workout",
+      "dueDate": "14/05/2023",
+      "dueTime": "15:30",
+      "description": "Experiment with a new workout routine",
+      "important": true,
+      "completed": false,
+      "id": 38,
+      "listID": 6
     }
   ],
   "listNames": [
